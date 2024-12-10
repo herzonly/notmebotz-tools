@@ -1,6 +1,6 @@
 {
   "name": "notmebotz-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sebuah Tools yang berfungsi untuk mengdonwload Video Atau Foto dari media sosial, serta sebagai tools yang berguna untuk aplikasi kamu seperti untuk BOT",
   "main": "index.js",
   "scripts": {
