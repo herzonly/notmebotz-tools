@@ -32,7 +32,7 @@ const fbdl = async (videoUrl) => {
         downloadLinks[resolution] = url;
       }
 
-      console.log({
+      return({
         author: "Herza",
         status: 200,
         data: downloadLinks,

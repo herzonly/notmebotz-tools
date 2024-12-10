@@ -22,7 +22,7 @@ async function ttdl(url) {
     if (response.data.code === 0) {
       const videoData = response.data.data;
 
-      console.log({
+      return({
         aurhor: "Herza",
         status: 200,
         data: { 

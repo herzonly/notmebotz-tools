@@ -5,7 +5,7 @@
       try {
         const result = await likee(url);
         const fes = result.data;
-        console.log({
+        return({
           author: "Herza",
           status: 200,
           data: fes 

@@ -46,7 +46,7 @@ async function twitterdl(url) {
 
   if (results.length === 0) throw new Error(`No results found!\n\n${res}`);
   
-  console.log({
+  return({
     author: "Herza",
     status: 200,
     data: results

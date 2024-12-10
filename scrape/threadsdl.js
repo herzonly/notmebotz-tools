@@ -10,7 +10,7 @@ async function threadsdl(url) {
   }
   let za = await fetch(`https://api.tioo.eu.org/download/threads?url=${url}`);
   let data = await za.json();
-  console.log(JSON.stringify({
+  return(JSON.stringify({
     author: "Herza",
     status: 200,
     data: data.result

@@ -23,7 +23,7 @@ async function igdl(url) {
         urls.push(match[0]);
       }
 
-      console.log({
+        return({
         creator: "Herza",
         status: 200,
         data: urls,
