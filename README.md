@@ -2,7 +2,7 @@
 # Notmebotz - Tools
 
 <a href="https://www.npmjs.com/package/notmebotz-tools"><img alt="npm version" src="https://img.shields.io/npm/v/notmebotz-tools.svg?style=flat-square"></a>
-<img alt="version" src="https://img.shields.io/github/package-json/v/shaonproject/notmebotz-tools?label=github&style=flat-square">
+<img alt="version" src="https://img.shields.io/github/package-json/v/herzonly/notmebotz-tools?label=github&style=flat-square">
 
 An package for fetch url and downloading an video or photo from media social like YouTube, Tiktok, Instagram, Threads, Twitter, Likee
 
