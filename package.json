@@ -1,0 +1,32 @@
+{
+  "name": "notmebotz-tools",
+  "version": "1.0.0",
+  "description": "Sebuah Tools yang berfungsi untuk mengdonwload Video Atau Foto dari media sosial, serta sebagai tools yang berguna untuk aplikasi kamu seperti untuk BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "herzonly",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.9",
+    "cheerio": "*",
+    "got": "^1.2.2",
+    "herxa-media-downloader": "^2.5.0",
+    "i": "^0.3.7",
+    "node-fetch": "^1.7.3",
+    "notmebotz-tools": "file:",
+    "npm": "^10.9.2",
+    "qs": "^6.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herzonly/notmebotz-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/herzonly/notmebotz-tools/issues"
+  },
+  "homepage": "https://github.com/herzonly/notmebotz-tools#readme"
+}
