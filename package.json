@@ -16,7 +16,7 @@
     "got": "^1.2.2",
     "herxa-media-downloader": "^2.5.0",
     "i": "^0.3.7",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.7",
     "notmebotz-tools": "file:",
     "npm": "^10.9.2",
     "qs": "^6.13.1"
