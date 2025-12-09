@@ -1,4 +1,6 @@
-
+const { tiktok } = require('notmebotz-tools')
+let tiktok = await ttdl("your video url")
+return tiktok
 # Notmebotz - Tools
 
 <a href="https://www.npmjs.com/package/notmebotz-tools"><img alt="npm version" src="https://img.shields.io/npm/v/notmebotz-tools.svg?style=flat-square"></a>
